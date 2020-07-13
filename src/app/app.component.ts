@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { UpperCasePipe } from '@angular/common';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'slack';
+  h1="Welcome to slack"
+  pip=new UpperCasePipe()
+  
 }

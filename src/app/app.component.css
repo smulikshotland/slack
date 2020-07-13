@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+    /* padding: 20%; */
+    font-size: large;
+    
+
+
+}
+#inputEmail{
+    height: 50px;
+    width: 250px;
+}
+h1{
+    color: brown;
+    text-align: center;
+    padding-top: 10%;
+    font-size:40px
+}
+#inputPassword{
+    height: 50px;
+    width: 250px;
+}
+h2{
+    color: brown;
+    text-align: center;
+}
